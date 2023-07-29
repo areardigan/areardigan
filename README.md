@@ -14,15 +14,17 @@ Learning the craft. Forever...
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<br />
+<img align="left" alt="GO" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;"  
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+#
+
+![My stats:](https://github-readme-stats.vercel.app/api?username=areardigan&show_icons=true&theme=holi&count_private=true))
+
+#
+
+<br/>
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andrewreardigan) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/areardigan) 
-
-
-![My stats:](https://github-readme-stats.vercel.app/api?username=areardigan&show_icons=true&theme=radical&count_private=true))
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areardigan&layout=compact)](https://github.com/areardigan/github-readme-stats)
 
