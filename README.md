@@ -42,12 +42,20 @@
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 📊 GitHub Stats
+## 💼 Professional Experience
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=areardigan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areardigan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
-</div>
+- 🏭 **Production Facility Management** - Overseeing operations and technology integration
+- 🖼️ **Image Recognition Systems** - Implementing computer vision solutions for quality control
+- 📦 **Quality Assurance & Shipping** - Building automated systems for production workflows
+- 🛒 **E-commerce Development** - Working with BigCommerce and custom solutions
+- ⚙️ **Full-Stack Development** - From frontend interfaces to backend production systems
+
+## 🎯 Current Focus
+
+- 🔧 Managing production facility operations and tech infrastructure
+- 💻 Developing and maintaining frontend applications
+- 🚀 Integrating modern web technologies with industrial systems
+- 📊 Building data-driven solutions for manufacturing processes
 
 
 ## 🤝 Connect with Me
