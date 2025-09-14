@@ -49,14 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areardigan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=areardigan&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=areardigan&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
 
 ## 🤝 Connect with Me
 
